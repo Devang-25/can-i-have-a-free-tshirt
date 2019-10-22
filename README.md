@@ -90,4 +90,6 @@ Can I Get A FREE TSHIRT PLEASE
 Can i get a free tshirt.
 ## Letsgohackingfest
 Free tshirt yaay!
+##Letsgetsomeshirts
+lets have some fun with the shirts should'nt we?
 

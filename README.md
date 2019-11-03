@@ -95,3 +95,5 @@ lets have some fun with the shirts should'nt we?
 ## The shirt will be great
 lets have a new beginnings with a new shirt
 
+## PRs from this repo were invalidated this year
+it was fun while it lasted... should've made that one real pr that i was missing...
